@@ -17,3 +17,5 @@ https://chrisjuniorli.github.io/project/Matting-Anything/
 https://arxiv.org/abs/2306.05399
 
 ## Output
+
+![Screenshot 2023-06-10 012533](https://github.com/camenduru/Matting-Anything-colab/assets/54370274/29fe3bed-a5c0-453b-a8ba-2bc630d1cca7)
